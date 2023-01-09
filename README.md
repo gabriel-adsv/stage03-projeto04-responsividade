@@ -7,7 +7,7 @@ Curso da Rocketseat de formação full-stack.  <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://gabriel-adsv.github.io/stage03-formulario-avancado/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabriel-adsv.github.io/stage03-projeto04-resposividade/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -28,8 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
-O Desafio extra é uma página desktop com imagem, título, texto, rodapé e finaliza com um rodapé com efeito de onda. 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-formulario-avancado/)
+Atividade feita no Stage 03 do curso Explorer da Rocketseat. Nesta etapa foi colocada em prática a regra mobile-first, onde cria-se primeiramente uma página para dispositivo móvel e depois para desktop. 
+- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-projeto04-resposividade/)
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT.
